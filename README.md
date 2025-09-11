@@ -1,4 +1,5 @@
 Proyecto ETL Chinook
+
 Este proyecto contiene un proceso de Extracción, Transformación y Carga (ETL) diseñado para la base de datos de ejemplo "Chinook". El objetivo principal es tomar los datos de una base de datos transaccional, procesarlos y cargarlos en una base de datos dimensional (Data Warehouse) para su posterior análisis.
 
 Contenido del Repositorio
